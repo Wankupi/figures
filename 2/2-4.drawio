@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="TXBD-LZY1iGdPi2Dcbin" name="第 1 页">
-        <mxGraphModel dx="996" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="793" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,13 +25,13 @@
                 <mxCell id="8" value="\(a_{n-1}\)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
                     <mxGeometry x="480" y="270" width="40" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
                     <mxGeometry x="520" y="270" width="40" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
                     <mxGeometry x="560" y="270" width="40" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
                     <mxGeometry x="600" y="270" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" edge="1">
