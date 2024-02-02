@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="TXBD-LZY1iGdPi2Dcbin" name="第 1 页">
-        <mxGraphModel dx="793" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="793" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -70,7 +70,7 @@
                         <mxPoint x="480" y="250" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="Current Length" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Times New Roman;spacingLeft=0;spacingRight=0;spacing=2;" parent="23" vertex="1" connectable="0">
+                <mxCell id="24" value="currentLength" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Times New Roman;spacingLeft=0;spacingRight=0;spacing=2;" parent="23" vertex="1" connectable="0">
                     <mxGeometry x="-0.0645" y="-2" relative="1" as="geometry">
                         <mxPoint y="-2" as="offset"/>
                     </mxGeometry>

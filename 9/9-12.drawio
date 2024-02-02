@@ -1,82 +1,82 @@
-<mxfile host="65bd71144e">
-    <diagram id="JrA1i89jau-NlZL4Pe7Y" name="第 1 页">
-        <mxGraphModel dx="793" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="9" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="10" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="2" value="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="80" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;" parent="1" source="3" target="6" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="3" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="140" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;" parent="1" source="4" target="5" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="17" style="edgeStyle=none;html=1;" parent="1" source="4" target="7" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="18" style="edgeStyle=none;html=1;" parent="1" source="4" target="8" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="4" value="2" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="340" y="140" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" style="edgeStyle=none;html=1;" parent="1" source="5" target="6" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;" parent="1" source="5" target="7" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" value="5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="200" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" value="7" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="230" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;" parent="1" source="7" target="8" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="7" value="6" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="240" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="4" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="414" y="280" width="40" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="19" value="数学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="60" width="60" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="20" value="程序设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="320" y="110" width="100" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="21" value="离散数学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="180" y="110" width="100" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="22" value="数据结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="250" y="160" width="100" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="23" value="编译原理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="130" y="200" width="100" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="24" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="240" width="80" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="25" value="软件工程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
-                    <mxGeometry x="320" y="280" width="100" height="40" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="Electron" modified="2024-02-02T14:59:43.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" version="23.0.2" etag="a2cgRTLEWI1sOAoM4B_o" type="device">
+  <diagram id="JrA1i89jau-NlZL4Pe7Y" name="第 1 页">
+    <mxGraphModel dx="954" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=none;html=1;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="3" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="edgeStyle=none;html=1;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" style="edgeStyle=none;html=1;" parent="1" source="4" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="edgeStyle=none;html=1;" parent="1" source="4" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="2" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="340" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=none;html=1;" parent="1" source="5" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" style="edgeStyle=none;html=1;" parent="1" source="5" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="7" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="190" y="230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="edgeStyle=none;html=1;" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="6" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="350" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="4" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="414" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="数学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="300" y="50" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="程序设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="离散数学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="123" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="数据结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="250" y="234" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="编译原理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="150" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="330" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="软件工程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=SimSun;" parent="1" vertex="1">
+          <mxGeometry x="390" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
